@@ -1,2 +1,4 @@
-<span style="font-size: 16px;">STEPS TO RUN PROGRAM:</span>
-<font size="4">This is some text with a font size of 4.</font>
+# This is a Header 1 (largest font size)
+## This is a Header 2 (smaller font size)
+### This is a Header 3 (even smaller font size)
+
