@@ -1,5 +1,5 @@
 Autonomous Robotics Project - Cyberbotics Humanoid Wrestling
-Overview
+Introduction
 Welcome to our Autonomous Robotics project repository! In this project, we are combining various concepts from sensing, kinematics, path planning, task execution, and vision to participate in the Cyberbotics Humanoid Wrestling competition. Our goal is to showcase and implement algorithms discussed in our class while exploring and pushing the boundaries of our interests in robotics.
 
 Project Description
