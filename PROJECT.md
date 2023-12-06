@@ -23,3 +23,5 @@ Vision: Leveraging computer vision to identify opponent's location and determine
 Modular Codebase: Our project is organized into modular components, making it easy to understand, modify, and extend. Each key concept is implemented in a separate module for clarity and maintainability.
 
 Simulation Environment: To facilitate testing and development, we use the simulation environment provided by Cyberbotics Humanoid Wrestling competition.
+
+### Sources
