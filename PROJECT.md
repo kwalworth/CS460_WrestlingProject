@@ -25,3 +25,10 @@ Modular Codebase: Our project is organized into modular components, making it ea
 Simulation Environment: To facilitate testing and development, we use the simulation environment provided by Cyberbotics Humanoid Wrestling competition.
 
 ### Sources
+
+
+### Link to Project Video
+Here is the link to the presentation [Project Video][link_toYOUTUBE].
+
+[link_toYOUTUBE]: https://youtu.be/oUPHWFBe0UA
+
