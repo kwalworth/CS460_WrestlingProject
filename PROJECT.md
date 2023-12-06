@@ -29,25 +29,24 @@ We successfully implemented all features. Path planning enabled the robot to nav
 
 There were 6 opponent controller’s provided. Our first measure of success was just to implement the controller with all features working. But we also wanted to see how we measured up to the provided opponent controllers. We were able to defeat 5 of the 6 provided controllers. We didn't have a specific target in mind, but we felt beating 5 of the 6 controllers was very good. It demonstrated that our controller works well. 
 
+<p align="center">
  ![Alice](https://github.com/kwalworth/CS460_WrestlingProject/assets/116377367/c82c6c26-b416-41cb-91ef-14e99eda2633)
 Alice - Victory 
+ </p>
 
  ![Bob](https://github.com/kwalworth/CS460_WrestlingProject/assets/116377367/2909596a-f9a5-46bf-a9cd-b0616686ec4f)
 Bob - Victory 
-
  
-
+![Charlie](https://github.com/kwalworth/CS460_WrestlingProject/assets/116377367/36f54511-b12e-4dd2-96b1-5fa2ab18a591)
 Charlie - Victory 
 
-
+![David1](https://github.com/kwalworth/CS460_WrestlingProject/assets/116377367/2952c8f2-08d9-4848-8797-fcacee0a8a22)
 David – Defeat 
 
- 
-
+ ![Eve](https://github.com/kwalworth/CS460_WrestlingProject/assets/116377367/5e4f4d23-9659-48b5-a9dc-2d2ee045a824)
 Eve – Victory 
 
- 
-
+ ![Fatima](https://github.com/kwalworth/CS460_WrestlingProject/assets/116377367/4c0d4c7a-ce22-43ed-9ac8-9ce703b48d71)
 Fatima – Victory 
 
  
