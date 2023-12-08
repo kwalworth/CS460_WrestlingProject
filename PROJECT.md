@@ -52,6 +52,20 @@ There were 6 opponent controller’s provided. Our first measure of success was 
 ### Conclusion
 The Cyberbotics Humanoid Wrestling competition provides a unique challenge. Not only does a controller have to be able to make a humanoid robot move throughout an environment, it has to be prepared to interact with and compete against other robots. We decided the most important features to implement were path planning, fall detection, vision, and attacking the opponent. The functions were implemented into the controller successfully as we were able to defeat 5 of the 6 provided opponent controllers. 
 
+### Sources
+Sources 1 and 2 both talk about path planning. Article 1 talks about map representation, tree search algorithms, and even machine learning and path planning. However, these seemed outside of the scope of our project except the path planning. Source 2, however, talks about global vs local path planning. In global path planning, the environment is static, and the robot’s global information is known. Local path planning is where the path is generated based off of inputs received from sensors. The environment is always the same for our project. The arena never changes sizes, and our robot always starts in the same spot. Because the environment doesn’t change, we decided to use global path planning. 
+
+Sources 3 and 4 talk about vision. Source 3 talks about how giving robots vision can greatly enhance their capabilities navigating through multiple sorts of environments. In our project, leveraging the robot’s vision capabilities allow it to identify how far away the opponent is from it and when it should execute an attack.  
+
+ 
+
+[1] “Robotic Path Planning.” Path Planning, fab.cba.mit.edu/classes/865.21/topics/path_planning/robotic.html. Accessed 6 Dec. 2023.  
+
+[2] Montazeri, Allahyar. “Path Planning.” Path Planning - an Overview | ScienceDirect Topics, www.sciencedirect.com/topics/engineering/path-planning. Accessed 6 Dec. 2023. 
+
+[3] “Understanding What Is a Robot Vision System.” Techman Robot, 19 Nov. 2021, www.tm-robot.com/en/robot-vision-system/. 
+
+[4] Geiger, A, et al. “Vision Meets Robotics: The Kitti Dataset - Sage Journals.” Vision Meets Robotics: The KITTI Dataset, Sage Journals, journals.sagepub.com/doi/full/10.1177/0278364913491297. Accessed 6 Dec. 2023. 
 
 ### Link to Project Video
 Here is the link to the presentation [Project Video][link_toYOUTUBE].
