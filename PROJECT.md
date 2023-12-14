@@ -30,11 +30,9 @@ We successfully implemented all features. Path planning enabled the robot to nav
 There were 6 opponent controller’s provided. Our first measure of success was just to implement the controller with all features working. But we also wanted to see how we measured up to the provided opponent controllers. We were able to defeat 5 of the 6 provided controllers. We didn't have a specific target in mind, but we felt beating 5 of the 6 controllers was very good. It demonstrated that our controller works well. 
 
  ![Alice](https://github.com/kwalworth/CS460_WrestlingProject/assets/116377367/c82c6c26-b416-41cb-91ef-14e99eda2633)
-<p align="center">
  | Trial | Win/Loss | Time | Score |
  |-------|----------|------|-------|
  | Row 1, Col 1 | Row 1, Col 2 | Row 1, Col 3 | Row 1, Col 4 |
-</p>
 
  ![Bob](https://github.com/kwalworth/CS460_WrestlingProject/assets/116377367/2909596a-f9a5-46bf-a9cd-b0616686ec4f)
 <p align="center">Bob - Victory</p>
