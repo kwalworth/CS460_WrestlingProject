@@ -44,7 +44,6 @@ There were 6 opponent controller’s provided. Our first measure of success was 
  | 10 | Win | 3:00 | 1.995 |
 
  ![Bob](https://github.com/kwalworth/CS460_WrestlingProject/assets/116377367/2909596a-f9a5-46bf-a9cd-b0616686ec4f)
-<p align="center">Bob</p>
  | Trial | Win/Loss | Time | Score |
  |-------|----------|------|-------|
  | 1 | Win | 2:01 | 2.178 |
@@ -59,7 +58,6 @@ There were 6 opponent controller’s provided. Our first measure of success was 
  | 10 | Loss | 1:59 | 1.695 |
  
 ![Charlie](https://github.com/kwalworth/CS460_WrestlingProject/assets/116377367/36f54511-b12e-4dd2-96b1-5fa2ab18a591)
-<p align="center">Charlie - Victory</p> 
  | Trial | Win/Loss | Time | Score |
  |-------|----------|------|-------|
  | 1 | Win | 0:25 | 1.155 |
