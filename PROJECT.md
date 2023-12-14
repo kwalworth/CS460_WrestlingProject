@@ -157,7 +157,7 @@ There were 6 opponent controller’s provided. Our first measure of success was 
  ![Fatima](https://github.com/kwalworth/CS460_WrestlingProject/assets/116377367/4c0d4c7a-ce22-43ed-9ac8-9ce703b48d71)
 
 <p align="center">
-  <b>Alice: Win Percentage: 70%, Average Time: 1:47, Coverage Score: 1.2004</b>
+  <b>Fatima: Win Percentage: 70%, Average Time: 1:47, Coverage Score: 1.2004</b>
 </p>
  
  | Trial | Win/Loss | Time | Score |
