@@ -2,7 +2,7 @@
 ## Introduction
 Welcome to our Autonomous Robotics project repository! In this project, we are combining various concepts from sensing, kinematics, path planning, task execution, and vision to participate in the Cyberbotics Humanoid Wrestling competition. Our goal is to showcase and implement algorithms discussed in our class while exploring and pushing the boundaries of our interests in robotics.
 
-## Project Description
+## Approach
 ### Objective
 The primary objective of this project is to develop a robust humanoid robot controller capable of competing in the Cyberbotics Wrestling competition. We aim to demonstrate the integration of theoretical concepts learned in class into a real-world robotics application.
 
@@ -30,8 +30,13 @@ We successfully implemented all features. Path planning enabled the robot to nav
 There were 6 opponent controller’s provided. Our first measure of success was just to implement the controller with all features working. But we also wanted to see how we measured up to the provided opponent controllers. We were able to defeat 5 of the 6 provided controllers. We didn't have a specific target in mind, but we felt beating 5 of the 6 controllers was very good. It demonstrated that our controller works well. 
 
  ![Alice](https://github.com/kwalworth/CS460_WrestlingProject/assets/116377367/c82c6c26-b416-41cb-91ef-14e99eda2633)
+
+<p align="center">
+  <b>Alice: Win Percentage: 70%, Average Time: 2:52, Coverage Score: 1.8522</b>
+</p>
+ 
  | Trial | Win/Loss | Time | Score |
- |-------|----------|------|-------|
+ |:-----:|:--------:|:----:|:-----:|
  | 1 | Win | 3:00 | 1.68 |
  | 2 | Loss | 2:41 | 1.799 |
  | 3 | Win | 3:00 | 1.721 |
@@ -45,7 +50,7 @@ There were 6 opponent controller’s provided. Our first measure of success was 
 
  ![Bob](https://github.com/kwalworth/CS460_WrestlingProject/assets/116377367/2909596a-f9a5-46bf-a9cd-b0616686ec4f)
  | Trial | Win/Loss | Time | Score |
- |-------|----------|------|-------|
+ |:-----:|:--------:|:----:|:-----:|
  | 1 | Win | 2:01 | 2.178 |
  | 2 | Win | 3:00 | 2.036 |
  | 3 | Win | 2:00 | 1.69 |
@@ -59,7 +64,7 @@ There were 6 opponent controller’s provided. Our first measure of success was 
  
 ![Charlie](https://github.com/kwalworth/CS460_WrestlingProject/assets/116377367/36f54511-b12e-4dd2-96b1-5fa2ab18a591)
  | Trial | Win/Loss | Time | Score |
- |-------|----------|------|-------|
+ |:-----:|:--------:|:----:|:-----:|
  | 1 | Win | 0:25 | 1.155 |
  | 2 | Win | 0:22 | 0.606 |
  | 3 | Win | 0:27 | 0.719 |
@@ -73,7 +78,7 @@ There were 6 opponent controller’s provided. Our first measure of success was 
 
 ![David1](https://github.com/kwalworth/CS460_WrestlingProject/assets/116377367/2952c8f2-08d9-4848-8797-fcacee0a8a22)
  | Trial | Win/Loss | Time | Score |
- |-------|----------|------|-------|
+ |:-----:|:--------:|:----:|:-----:|
  | 1 | Loss | 0:37 | 1.256 |
  | 2 | Loss | 0:26 | 0.791 |
  | 3 | Win | 0:24 | 0.99 |
@@ -87,7 +92,7 @@ There were 6 opponent controller’s provided. Our first measure of success was 
 
  ![Eve](https://github.com/kwalworth/CS460_WrestlingProject/assets/116377367/5e4f4d23-9659-48b5-a9dc-2d2ee045a824)
  | Trial | Win/Loss | Time | Score |
- |-------|----------|------|-------|
+ |:-----:|:--------:|:----:|:-----:|
  | 1 | Win | 2:03 | 1.487 |
  | 2 | Win | 3:00 | 1.681 |
  | 3 | Win | 2:08 | 1.54 |
@@ -101,7 +106,7 @@ There were 6 opponent controller’s provided. Our first measure of success was 
 
  ![Fatima](https://github.com/kwalworth/CS460_WrestlingProject/assets/116377367/4c0d4c7a-ce22-43ed-9ac8-9ce703b48d71)
  | Trial | Win/Loss | Time | Score |
- |-------|----------|------|-------|
+ |:-----:|:--------:|:----:|:-----:|
  | 1 | Win | 0:56 | 0.863 |
  | 2 | Win | 0:48 | 0.789 |
  | 3 | Win | 0:44 | 0.741 |
