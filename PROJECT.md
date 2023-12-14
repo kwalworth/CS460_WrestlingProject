@@ -32,7 +32,16 @@ There were 6 opponent controller’s provided. Our first measure of success was 
  ![Alice](https://github.com/kwalworth/CS460_WrestlingProject/assets/116377367/c82c6c26-b416-41cb-91ef-14e99eda2633)
  | Trial | Win/Loss | Time | Score |
  |-------|----------|------|-------|
- | Row 1, Col 1 | Row 1, Col 2 | Row 1, Col 3 | Row 1, Col 4 |
+ | 1 | Win | 3:00 | 1.68 |
+ | 2 | Loss | 2:41 | 1.799 |
+ | 3 | Win | 3:00 | 1.721 |
+ | 4 | Win | 2:46 | 2.087 |
+ | 5 | Loss | 2:46 | 2.056 |
+ | 6 | Win | 3:00 | 1.74 |
+ | 7 | Loss | 2:36 | 1.744 |
+ | 8 | Win | 3:00 | 1.901 |
+ | 9 | Win | 3:00 | 1.799 |
+ | 10 | Win | 3:00 | 1.995 |
 
  ![Bob](https://github.com/kwalworth/CS460_WrestlingProject/assets/116377367/2909596a-f9a5-46bf-a9cd-b0616686ec4f)
 <p align="center">Bob - Victory</p>
