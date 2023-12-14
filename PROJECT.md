@@ -44,10 +44,34 @@ There were 6 opponent controller’s provided. Our first measure of success was 
  | 10 | Win | 3:00 | 1.995 |
 
  ![Bob](https://github.com/kwalworth/CS460_WrestlingProject/assets/116377367/2909596a-f9a5-46bf-a9cd-b0616686ec4f)
-<p align="center">Bob - Victory</p>
+<p align="center">Bob</p>
+ | Trial | Win/Loss | Time | Score |
+ |-------|----------|------|-------|
+ | 1 | Win | 2:01 | 2.178 |
+ | 2 | Win | 3:00 | 2.036 |
+ | 3 | Win | 2:00 | 1.69 |
+ | 4 | Win | 2:09 | 2.045 |
+ | 5 | Win | 2:04 | 1.841 |
+ | 6 | Loss | 1:53 | 1.478 |
+ | 7 | Loss | 1:53 | 1.646 |
+ | 8 | Loss | 1:59 | 1.358 |
+ | 9 | Win | 2:09 | 1.772 |
+ | 10 | Loss | 1:59 | 1.695 |
  
 ![Charlie](https://github.com/kwalworth/CS460_WrestlingProject/assets/116377367/36f54511-b12e-4dd2-96b1-5fa2ab18a591)
 <p align="center">Charlie - Victory</p> 
+ | Trial | Win/Loss | Time | Score |
+ |-------|----------|------|-------|
+ | 1 | Win | 0:25 | 1.155 |
+ | 2 | Win | 0:22 | 0.606 |
+ | 3 | Win | 0:27 | 0.719 |
+ | 4 | Win | 0:22 | 1.038 |
+ | 5 | Win | 0:22 | 1.073 |
+ | 6 | Win | 0:22 | 1.06 |
+ | 7 | Win | 0:22 | 1.046 |
+ | 8 | Win | 0:22 | 1.151 |
+ | 9 | Win | 0:26 | 0.558 |
+ | 10 | Win | 0:23 | 0.62 |
 
 ![David1](https://github.com/kwalworth/CS460_WrestlingProject/assets/116377367/2952c8f2-08d9-4848-8797-fcacee0a8a22)
 <p align="center">David – Defeat</p>
