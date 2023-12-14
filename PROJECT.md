@@ -49,6 +49,11 @@ There were 6 opponent controller’s provided. Our first measure of success was 
  | 10 | Win | 3:00 | 1.995 |
 
  ![Bob](https://github.com/kwalworth/CS460_WrestlingProject/assets/116377367/2909596a-f9a5-46bf-a9cd-b0616686ec4f)
+
+<p align="center">
+  <b>Bob: Win Percentage: 60%, Average Time: 2:06, Coverage Score: 1.7739</b>
+</p>
+ 
  | Trial | Win/Loss | Time | Score |
  |:-----:|:--------:|:----:|:-----:|
  | 1 | Win | 2:01 | 2.178 |
@@ -63,6 +68,11 @@ There were 6 opponent controller’s provided. Our first measure of success was 
  | 10 | Loss | 1:59 | 1.695 |
  
 ![Charlie](https://github.com/kwalworth/CS460_WrestlingProject/assets/116377367/36f54511-b12e-4dd2-96b1-5fa2ab18a591)
+
+<p align="center">
+  <b>Charlie: Win Percentage: 100%, Average Time: 0:23, Coverage Score: 0.9026</b>
+</p>
+
  | Trial | Win/Loss | Time | Score |
  |:-----:|:--------:|:----:|:-----:|
  | 1 | Win | 0:25 | 1.155 |
@@ -77,6 +87,11 @@ There were 6 opponent controller’s provided. Our first measure of success was 
  | 10 | Win | 0:23 | 0.62 |
 
 ![David1](https://github.com/kwalworth/CS460_WrestlingProject/assets/116377367/2952c8f2-08d9-4848-8797-fcacee0a8a22)
+
+<p align="center">
+  <b>David: Win Percentage: 30%, Average Time: 0:58, Coverage Score: 0.8756</b>
+</p>
+
  | Trial | Win/Loss | Time | Score |
  |:-----:|:--------:|:----:|:-----:|
  | 1 | Loss | 0:37 | 1.256 |
@@ -91,6 +106,11 @@ There were 6 opponent controller’s provided. Our first measure of success was 
  | 10 | Loss | 0:22 | 0.771 |
 
  ![Eve](https://github.com/kwalworth/CS460_WrestlingProject/assets/116377367/5e4f4d23-9659-48b5-a9dc-2d2ee045a824)
+
+<p align="center">
+  <b>Eve: Win Percentage: 80%, Average Time: 2:32, Coverage Score: 1.6325</b>
+</p>
+ 
  | Trial | Win/Loss | Time | Score |
  |:-----:|:--------:|:----:|:-----:|
  | 1 | Win | 2:03 | 1.487 |
@@ -105,6 +125,11 @@ There were 6 opponent controller’s provided. Our first measure of success was 
  | 10 | Win | 2:12 | 1.567 |
 
  ![Fatima](https://github.com/kwalworth/CS460_WrestlingProject/assets/116377367/4c0d4c7a-ce22-43ed-9ac8-9ce703b48d71)
+
+<p align="center">
+  <b>Alice: Win Percentage: 70%, Average Time: 1:47, Coverage Score: 1.2004</b>
+</p>
+ 
  | Trial | Win/Loss | Time | Score |
  |:-----:|:--------:|:----:|:-----:|
  | 1 | Win | 0:56 | 0.863 |
