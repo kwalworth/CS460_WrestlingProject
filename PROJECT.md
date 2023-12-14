@@ -72,13 +72,46 @@ There were 6 opponent controller’s provided. Our first measure of success was 
  | 10 | Win | 0:23 | 0.62 |
 
 ![David1](https://github.com/kwalworth/CS460_WrestlingProject/assets/116377367/2952c8f2-08d9-4848-8797-fcacee0a8a22)
-<p align="center">David – Defeat</p>
+ | Trial | Win/Loss | Time | Score |
+ |-------|----------|------|-------|
+ | 1 | Loss | 0:37 | 1.256 |
+ | 2 | Loss | 0:26 | 0.791 |
+ | 3 | Win | 0:24 | 0.99 |
+ | 4 | Loss | 0:30 | 0.899 |
+ | 5 | Loss | 0:34 | 0.88 |
+ | 6 | Loss | 3:00 | 0.866 |
+ | 7 | Win | 0:32 | 0.71 |
+ | 8 | Win | 0:24 | 0.99 |
+ | 9 | Loss | 3:00 | 0.603 |
+ | 10 | Loss | 0:22 | 0.771 |
 
  ![Eve](https://github.com/kwalworth/CS460_WrestlingProject/assets/116377367/5e4f4d23-9659-48b5-a9dc-2d2ee045a824)
-<p align="center">Eve – Victory</p>
+ | Trial | Win/Loss | Time | Score |
+ |-------|----------|------|-------|
+ | 1 | Win | 2:03 | 1.487 |
+ | 2 | Win | 3:00 | 1.681 |
+ | 3 | Win | 2:08 | 1.54 |
+ | 4 | Win | 3:00 | 1.681 |
+ | 5 | Win | 3:00 | 1.681 |
+ | 6 | Win | 2:13 | 1.593 |
+ | 7 | Win | 3:00 | 1.681 |
+ | 8 | Win | 2:13 | 1.593 |
+ | 9 | Win | 2:31 | 1.821 |
+ | 10 | Win | 2:12 | 1.567 |
 
  ![Fatima](https://github.com/kwalworth/CS460_WrestlingProject/assets/116377367/4c0d4c7a-ce22-43ed-9ac8-9ce703b48d71)
-<p align="center">Fatima – Victory</p>
+ | Trial | Win/Loss | Time | Score |
+ |-------|----------|------|-------|
+ | 1 | Win | 0:56 | 0.863 |
+ | 2 | Win | 0:48 | 0.789 |
+ | 3 | Win | 0:44 | 0.741 |
+ | 4 | Loss | 1:57 | 1.336 |
+ | 5 | Loss | 2:02 | 1.398 |
+ | 6 | Loss | 2:29 | 2.068 |
+ | 7 | Win | 1:48 | 1.311 |
+ | 8 | Win | 1:06 | 0.97 |
+ | 9 | Win | 3:00 | 1.264 |
+ | 10 | Win | 3:00 | 1.264 |
 
  
 
