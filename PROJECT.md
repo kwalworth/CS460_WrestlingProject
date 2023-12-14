@@ -8,7 +8,7 @@ Key elements include leveraging the Cyberbotics Open Repository, implementing sm
 
 Our modular codebase ensures clarity and ease of modification, and the simulation environment provided by Cyberbotics serves as a valuable testing ground. We assume a level playing field with uniform robot styles and fixed arena dimensions.
 
-Results showcase a commendable 68.33% overall win ratio against six opponent controllers. The success lies in our robot's ability to navigate, self-right after falls, estimate opponent distances using vision, and execute effective offensive maneuvers.
+Results showcase a commendable 70.00% overall win ratio against six opponent controllers. The success lies in our robot's ability to navigate, self-right after falls, estimate opponent distances using vision, and execute effective offensive maneuvers.
 
 Looking ahead, there's room for improvement, perhaps nudging the win ratio closer to 100% with further optimization. 
 
@@ -58,7 +58,7 @@ We assumed that both competitors are using the same style robot and motion libra
 ## Results
 We successfully implemented all features. Path planning enabled the robot to navigate the map, increasing our score while avoiding falling out of the arena and potential losses. Fall detection functioned correctly, allowing our robot to self-right when it fell. Our vision was able to provide an estimate of how far away the opponent was. The estimate was used to determine when the attack function was called. Once triggered, our bot started squatting up and down while swinging it’s arms in an attempt to get under the other robot and knock it over. These were all implemented together in one controller. 
 
-There were 6 opponent controller’s provided. Our first measure of success was just to implement the controller with all features working. But we also wanted to see how we measured up to the provided opponent controllers. We managed to get above the 50% win ratio for 5 of the 6 competing controllers with a final overall win ratio of 68.33%.
+There were 6 opponent controller’s provided. Our first measure of success was just to implement the controller with all features working. But we also wanted to see how we measured up to the provided opponent controllers. We managed to get above the 50% win ratio for 5 of the 6 competing controllers with a final overall win ratio of 70.00%.
  ![Alice](https://github.com/kwalworth/CS460_WrestlingProject/assets/116377367/c82c6c26-b416-41cb-91ef-14e99eda2633)
 
 <p align="center">
@@ -138,7 +138,7 @@ There were 6 opponent controller’s provided. Our first measure of success was 
  ![Eve](https://github.com/kwalworth/CS460_WrestlingProject/assets/116377367/5e4f4d23-9659-48b5-a9dc-2d2ee045a824)
 
 <p align="center">
-  <b>Eve: Win Percentage: 80%, Average Time: 2:32, Coverage Score: 1.6325</b>
+  <b>Eve: Win Percentage: 90%, Average Time: 2:32, Coverage Score: 1.6325</b>
 </p>
  
  | Trial | Win/Loss | Time | Score |
@@ -151,7 +151,7 @@ There were 6 opponent controller’s provided. Our first measure of success was 
  | 6 | Win | 2:13 | 1.593 |
  | 7 | Win | 3:00 | 1.681 |
  | 8 | Win | 2:13 | 1.593 |
- | 9 | Win | 2:31 | 1.821 |
+ | 9 | Loss | 2:31 | 1.821 |
  | 10 | Win | 2:12 | 1.567 |
 
  ![Fatima](https://github.com/kwalworth/CS460_WrestlingProject/assets/116377367/4c0d4c7a-ce22-43ed-9ac8-9ce703b48d71)
